@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is feature A
 =======
 This is feature B
 >>>>>>> feature-b
+=======
+This is feature  C
+
+This is feature D
+>>>>>>> feature-c
